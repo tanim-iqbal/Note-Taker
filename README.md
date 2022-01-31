@@ -1,5 +1,5 @@
 # Note-Taker
-A simple note taking app that allows you to add and delete notes as needed through a mobile app.
+A simple note taking app that allows you to add and delete notes as needed through a web app.
 
 # Snap Shot
 
