@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const {readAndAppend, readFromFile, readAndDelete} = require('./helpers/fsUtils');
+const {readAndAppend, readFromFile, readAndDelete} = require('./helpers/fsutils');
 const { v4: uuidv4 } = require('uuid');
 
 const PORT = process.env.PORT || 3001;
