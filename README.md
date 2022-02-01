@@ -1,15 +1,23 @@
 # Note-Taker
-A simple note taking app
+A simple note taking app that allows you to add and delete notes as needed through a web app.
+
+# Heroku Live Link
+
+https://pure-springs-60544.herokuapp.com/
+
+Click on link and start taking your notes!
 
 
-Usage
-Navigate to the website and click get started. On the next page enter your notes in the box on the right and click the save icon which appears after typing a note to save the note.
+# Snap Shot
 
-Click on a note on the left to view the note.
+![Screen Shot 2022-01-31 at 2 30 33 PM](https://user-images.githubusercontent.com/89047977/151860418-79bcf5a3-89bd-4f26-aa9d-78111acf8d1f.png)
 
-Click the delete icon on the left to delete the note it's attached to.
+![Screen Shot 2022-01-31 at 2 33 08 PM](https://user-images.githubusercontent.com/89047977/151860489-7a635d8a-d673-44cd-ab6f-8ed3dd2649aa.png)
 
-Contributing
-Contact me for information.
+# Github
 
-Questions
+https://github.com/tanim-iqbal
+
+# Contact
+
+tanim.iqbal13@gmail.com
